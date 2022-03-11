@@ -20,7 +20,7 @@ h2 {font-family: 'Orelega One', cursive;}
 
 .resume-header {
     background-color: #d49b7e;
-	color: #e6cebc
+	color: #fffefc
 	
 }
 
@@ -43,7 +43,7 @@ h2 {font-family: 'Orelega One', cursive;}
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #893f04;
 }
 
 .biography-details li, .skill-list li {
