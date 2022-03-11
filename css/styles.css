@@ -32,6 +32,10 @@ h2 {font-family: 'Orelega One', cursive;}
 	background-color: #ddb8a6;
 }
 
+.language-progress {
+	background-color: #DF787A
+}
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
